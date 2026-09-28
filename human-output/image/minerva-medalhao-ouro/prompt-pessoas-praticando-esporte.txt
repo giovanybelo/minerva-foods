@@ -1,23 +1,23 @@
-CAMERA: ARRI Alexa 35 at ISO 800, hand-held at chest level, low oblique angle, tracking alongside the athlete at pace.
+CAMERA: ARRI Alexa 35 at ISO 800, hand-held at chest level, low oblique angle, tracking alongside the group at running pace.
 
-LENS: Canon K35 35mm T1.5, wide open, focus on the athlete's face and driving shoulder, everything past mid-body dissolving into blur.
+LENS: Canon K35 35mm T1.5, wide open, focus on the lead runner's face and driving shoulder, the pack behind dissolving into blur.
 
-LIGHT: Single hard source — midday sun at 5.500K, low camera-right, skimming across the face and collarbone. Zero fill. Lit cheek at 70 IRE, shadow side falling to 22 IRE, edges razor sharp.
+LIGHT: Single hard source — midday sun at 5.500K, low camera-right, skimming across the runners' faces and collarbones. Zero fill. Lit cheek at 70 IRE, shadow side falling to 22 IRE, edges razor sharp.
 
-SUBJECT: An athlete captured mid-effort — torso leaning into the motion, jaw set, one arm driving forward past the lens. Intercepted framing, cropped from mid-thigh up, no footwear or ground in frame, no visible logos or brand marks on the clothing.
+SUBJECT: A small group of runners crossing an urban street mid-stride, the lead runner's jaw set and arm driving forward past the lens, two more runners intercepted at the edges of frame, caught at different points of the gait cycle. No footwear or ground in frame, no visible logos or brand marks on the clothing.
 
-FOREGROUND: A blurred shoulder or limb of another person passing close to the lens, out of focus, slicing one edge of the frame.
+FOREGROUND: A blurred shoulder of a trailing runner passing close to the lens, out of focus, slicing one edge of the frame.
 
-MIDGROUND: The athlete's face and chest, sharply resolved at the peak of exertion.
+MIDGROUND: The lead runner's face and chest, sharply resolved at the peak of exertion.
 
-BACKGROUND: Streaked urban or open-air color, motion-compressed into soft horizontal bands, no readable signage.
+BACKGROUND: Streaked urban color — parked cars, a crosswalk, storefronts — motion-compressed into soft horizontal bands, no readable signage.
 
-WARDROBE TONAL BEHAVIOR: Plain unbranded technical fabric in a muted single tone, clinging with sweat, no visible marks.
+WARDROBE TONAL BEHAVIOR: Plain unbranded technical fabric in muted single tones across the group, clinging with sweat, no visible marks.
 
 MAKEUP SURFACE PHYSICS: Real skin, sweat beading on the temple and jaw, visible pores, no retouching artifacts.
 
 POST BEHAVIOR: 35mm film grain structure, heavy tactile grain, hard highlight roll-off, restrained saturation, motion streaking embedded in the exposure.
 
-COMPOSITIONAL GEOMETRY: Subject pushed to one outer third, motion blur as the dominant graphic vector, tight intercepted crop.
+COMPOSITIONAL GEOMETRY: Lead runner pushed to one outer third, trailing runners staggered diagonally behind, motion blur as the dominant graphic vector, tight intercepted crop.
 
 MOOD & ART DIRECTION: Composition and art direction inspired in the work of award-winning directors.
