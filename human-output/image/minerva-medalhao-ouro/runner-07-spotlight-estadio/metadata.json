@@ -1,0 +1,10 @@
+{
+  "provider": "magnific_mcp",
+  "model": "auto",
+  "aspect_ratio": "4:5",
+  "resolution": "2k",
+  "creation_identifier": "iGByM1A3uK",
+  "web_url": "https://www.magnific.com/app/creation/iGByM1A3uK?utm_source=mcp&utm_medium=ai_connector",
+  "image_url": "https://pikaso.cdnpk.net/private/production/5576848179/render.png?token=exp=1790812800~hmac=9d4c9a86221d57f80fb6834e0d712bcd8cec903a4f06ea8fadabac480e6c62f8",
+  "note": "download local bloqueado pela politica de rede do ambiente (pikaso.cdnpk.net/magnific.com negados); use o image_url ou web_url para baixar manualmente. Primeira tentativa em lote de 4 falhou com 403 (bloqueio transitorio do MCP); retry isolado funcionou."
+}

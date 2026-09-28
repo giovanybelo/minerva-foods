@@ -1,0 +1,23 @@
+CAMERA: ARRI Alexa 35 at ISO 800, hand-held at chest level, slight downward tilt, breathing with the motion.
+
+LENS: Canon K35 55mm T1.5, stopped to T2, focus locked on the iris, edges falling.
+
+LIGHT: Single hard key at 3.200K, 75 degrees camera-right, slightly above eye line. Zero fill. Ambient bounce at less than two percent of key. Left half of the face crushed to 15 IRE, right half at 55 IRE. Shadow line cuts across the bridge of the nose.
+
+SUBJECT: An athlete mid-exertion during a night training session, head turned three-quarters into the shadow, one eye catching a single specular highlight, breath visible in the cold air. Body absorbed into black. No visible logos or brand marks.
+
+FOREGROUND: Negative space, deep black, no intrusion.
+
+MIDGROUND: Athlete's face emerging from black, only one cheek lit.
+
+BACKGROUND: Black, with one barely-visible practical light at 2.700K in the far corner.
+
+WARDROBE TONAL BEHAVIOR: Plain dark unbranded fabric absorbing all light, no visible texture in shadow side.
+
+MAKEUP SURFACE PHYSICS: Real skin, visible pores on the lit cheek, dry texture, no sheen.
+
+POST BEHAVIOR: Kodak Vision3 500T 5219, heavy visible grain in the shadow side, deep crushed blacks, restrained highlight roll-off, halation barely present.
+
+COMPOSITIONAL GEOMETRY: Subject pushed to frame-right third, two-thirds of the frame in pure black, vertical tension.
+
+MOOD & ART DIRECTION: Composition and art direction inspired in the work of award-winning directors.
