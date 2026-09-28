@@ -1,0 +1,7 @@
+Campanha: Minerva Foods x Track&Field — ativação Medalhão de Ouro
+Pedido: imagem no estilo da ref "RUN WILD" (worm's-eye, sol estourado, céu azul saturado), corredor em Campinas/SP, roupa de corrida, medalha no pescoço sem muito foco (similar à medalha com textura de carne grelhada), sem tipografia
+Modo: REALISTA
+Setup de iluminação: sol duro em contraluz com flare (derivado de Golden Hour/Hard Flash)
+Aspect ratio: 16:9
+Resolução: 2k
+Data: 2026-09-28
