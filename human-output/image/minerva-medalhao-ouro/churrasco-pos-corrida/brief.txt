@@ -1,0 +1,7 @@
+Campanha: Minerva Foods x Track&Field — ativação Medalhão de Ouro
+Pedido do usuário: pessoas comendo churrasco/carne (conexão com Minerva Foods, produtora de carnes)
+Modo: REALISTA
+Setup de iluminação: adaptado de Spotlight (brasa da churrasqueira como fonte prática, dusk)
+Aspect ratio: 4:5
+Resolução: 2k
+Data: 2026-09-28

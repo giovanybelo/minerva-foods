@@ -1,0 +1,23 @@
+CAMERA: IMAX MK IV 65mm at ISO 250, slightly elevated, looking down at 12 degrees toward the floating medal.
+
+LENS: Zeiss Makro-Planar 65mm T2.2, T2.8, focus on the engraved face, the trailing edge falling into soft loss.
+
+LIGHT: Single source through a large diffused panel at 3.000K, 50 degrees camera-left and above, modeling the medallion's relief in a Rembrandt pattern. Bounce fill from below at four stops under key, warming the underside without erasing its shadow. Lit face at 75 IRE, shadow face at 22 IRE.
+
+SUBJECT: A heavy gold medallion suspended in still air, gently tilted off-axis, its gold-leaf surface catching a hard specular line across the embossed relief. Intercepted, the ribbon trailing out of frame.
+
+FOREGROUND: A dark polished surface below, reflecting a soft inverted glow of the medal.
+
+MIDGROUND: The medallion itself, modeled like a struck coin, half its face in shadow.
+
+BACKGROUND: A deep charcoal void, gradient falling to near-black at the edges.
+
+WARDROBE TONAL BEHAVIOR: Gold leaf catching hard specular breakup, satin ribbon absorbing light along its shadow side.
+
+MAKEUP SURFACE PHYSICS: Hammered metal texture, micro-scratches catching the rim light, faint fingerprints on the polished rim.
+
+POST BEHAVIOR: Kodak 2383 print emulation, visible organic grain, rich midtone separation, warm shadow falloff, deep blacks without crush.
+
+COMPOSITIONAL GEOMETRY: Medallion offset to frame-right third, weight balanced by the dark void on the left, painterly geometry.
+
+MOOD & ART DIRECTION: Composition and art direction inspired in the work of award-winning directors.

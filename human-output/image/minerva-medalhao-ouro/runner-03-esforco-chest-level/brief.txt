@@ -1,0 +1,8 @@
+Campanha: Minerva Foods x Track&Field — ativação Medalhão de Ouro
+Pedido original: pessoas praticando esportes em ângulos diferentes, seguindo estilo das referências (_REF.zip)
+Ajuste do usuário: não focar em tênis/calçado, zero marca visível
+Modo: REALISTA
+Setup de iluminação: adaptado de Hard Flash (sol duro lateral, chest-level, crop sem calçado)
+Aspect ratio: 4:5
+Resolução: 2k
+Data: 2026-09-28

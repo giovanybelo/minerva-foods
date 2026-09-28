@@ -1,0 +1,23 @@
+CAMERA: ARRI Alexa 35 at ISO 800, rigged directly overhead, locked off, looking straight down at the crosswalk.
+
+LENS: Canon K35 35mm T1.5, stopped to T4, focus held across the whole group, edges holding sharp.
+
+LIGHT: Single hard source — noon sun at 5.600K, dead vertical, casting shadows directly beneath each runner with almost no falloff. Zero fill. Pavement at 70 IRE, shadow pools at 8 IRE, edges razor sharp.
+
+SUBJECT: Three runners mid-stride crossing painted road markings, bodies angled at different points of the gait cycle, one arm caught blurred at full swing. Intercepted by a tree shadow slicing the frame.
+
+FOREGROUND: A long diagonal tree shadow raking across the asphalt, sharp-edged.
+
+MIDGROUND: Runners scattered off-grid against the crosswalk stripes, shadows pooling tight beneath their feet.
+
+BACKGROUND: Bare sunlit asphalt, a single manhole cover as the only other graphic element.
+
+WARDROBE TONAL BEHAVIOR: Technical mesh in saturated coral and graphite, fabric slightly stiff, catching hard specular hits on the shoulders.
+
+MAKEUP SURFACE PHYSICS: Real skin, sweat sheen on the forearms, no powder, pores visible under the flat overhead light.
+
+POST BEHAVIOR: 35mm film grain structure, heavy visible grain, hard highlight roll-off, minimal halation, high midday contrast retained.
+
+COMPOSITIONAL GEOMETRY: Diagonal shadow as graphic ruling line, runners scattered off the center third, negative pavement dominant.
+
+MOOD & ART DIRECTION: Composition and art direction inspired in the work of award-winning directors.
